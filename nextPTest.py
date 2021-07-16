@@ -1,4 +1,4 @@
-import unittest from nextPermutation import nextPermutaions 
+import unittest from nextPermutations import nextPermutations 
 class nextTest(unittest.TestCase):
     #test the output of the correct value
     def test_next(self):
